@@ -1,6 +1,7 @@
 # Hi, I'm Siva Prasad! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Welcome!
+I’m passionate about empowering individuals and businesses through beautiful, modern, and functional websites as well as career-focused training programs. At SGR Infotech, we specialize in helping students gain real-world skills through internship programs, CRT (Campus Recruitment Training), and project-oriented programming, alongside offering affordable web development services for small businesses and institutions.
 
 ![prasad230776's Stats](https://github-readme-stats.vercel.app/api?username=prasad230776&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
