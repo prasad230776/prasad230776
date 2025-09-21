@@ -19,9 +19,14 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 🎯 Mission: making quality training and digital presence accessible and affordable
 
 🤝 Blending technical expertise with a personalized approach to empower students and businesses
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
+## 🌐 Client Websites I Developed  
+
+- [TGCTA](https://tgcta.in)  
+- [Siddartha](https://seatexams.in/)  
+- [Healthy Millets](https://healthymillets.in/)  
+- [Race Coding Institute](https://racecodinginstitute.com/)  
+- [Code With Siva](https://codewithsiva.dev/)  
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -35,9 +40,15 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+## 🏆 Achievements & Highlights  
 
-- 🌟 
+- 💻 Developed **multiple client websites** for businesses and institutions, helping them establish a strong digital presence  
+- 🚀 Founder of **SGR Infotech**, focused on **affordable web development** and **career-focused training programs**  
+- 🎓 Trained and mentored **students through internships, CRT (Campus Recruitment Training), and project-oriented learning**  
+- 📚 Built **real-world programming projects** and guided learners to gain practical coding experience  
+- 🌱 Passionate about empowering individuals and businesses through **technology, education, and innovation**  
+- 🌐 Creator of [Code With Siva](https://codewithsiva.dev/) – a platform to share knowledge and learning resources  
+
 
 
 ## 📬 Get in Touch
