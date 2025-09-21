@@ -48,7 +48,15 @@ I’m passionate about empowering individuals and businesses through beautiful, 
 - 🎓 Trained and mentored **students through internships, CRT (Campus Recruitment Training), and project-oriented learning**  
 - 📚 Built **real-world programming projects** and guided learners to gain practical coding experience  
 - 🌱 Passionate about empowering individuals and businesses through **technology, education, and innovation**  
-- 🌐 Creator of [Code With Siva](https://codewithsiva.dev/) – a platform to share knowledge and learning resources  
+
+## 📜 Certifications  
+
+- **IABAC Data Scientist Certification**  
+  *Certificate Number:* `IAB1120172342`  
+
+- **Certified Associate JavaScript Programmer**  
+  *Issued by:* OpenEDG, JS Institute  
+  *Certificate Code:* `XBgj.SYQq.YddC`  
 
 
 
