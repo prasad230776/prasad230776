@@ -30,7 +30,7 @@ I’m passionate about empowering individuals and businesses through beautiful, 
 - [Code With Siva](https://codewithsiva.dev/)  
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs, python, java, springboot, react, express, sql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
