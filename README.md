@@ -6,11 +6,19 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at Siddrtha
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+👋 Hi, I’m Siva Prasad K V
 
+💻 Founder of SGR Infotech
+
+🚀 Passionate about building modern, functional websites and career-focused training programs
+
+🎓 Providing internships, Campus Recruitment Training (CRT), and project-oriented programming for students
+
+🏢 Offering affordable web development services for small businesses and institutions
+
+🎯 Mission: making quality training and digital presence accessible and affordable
+
+🤝 Blending technical expertise with a personalized approach to empower students and businesses
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
